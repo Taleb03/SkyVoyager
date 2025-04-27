@@ -57,3 +57,5 @@ To run this project locally, follow these steps:
     yarn dev
     ```
 5.  Open your browser and navigate to `http://localhost:5173`.
+
+🎨 **Designed & Developed by [Taleb Shaikh](https://github.com/Taleb03)** 
