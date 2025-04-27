@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Sunrise, Users, Heart, Mountain } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/Button";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
