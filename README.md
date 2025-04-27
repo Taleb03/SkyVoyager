@@ -1,6 +1,7 @@
 # 🌤️ SkyVoyager
 
-![SkyVoyager](https://github.com/user-attachments/assets/91a07504-eb38-47d5-8e88-32476f2c23e6)
+![SkyVoyager](https://github.com/user-attachments/assets/a38de5f4-1ac1-464f-8887-5d1cb2cb38bf)
+
 
 ## 📝 Overview
 
