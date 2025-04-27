@@ -1,5 +1,3 @@
-// src/components/ui/select.jsx (or your chosen path)
-
 import React from "react";
 import * as SelectPrimitive from "@radix-ui/react-select";
 import { Check, ChevronDown, ChevronUp } from "lucide-react";
