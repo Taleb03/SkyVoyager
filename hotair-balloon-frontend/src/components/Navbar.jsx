@@ -126,7 +126,7 @@ const Navbar = () => {
               isScrolled ? "text-slate-900" : "text-white"
             )}
           >
-            SkyVoyage
+            SkyVoyager
           </span>
         </a>
 

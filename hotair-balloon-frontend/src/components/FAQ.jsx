@@ -136,7 +136,7 @@ const FAQ = () => {
               </div>
 
               <p className="mb-6 text-slate-700">
-                At SkyVoyage Balloons, your safety is our highest priority. Our
+                At SkyVoyager Balloons, your safety is our highest priority. Our
                 perfect safety record is the result of our unwavering commitment
                 to rigorous standards and procedures.
               </p>

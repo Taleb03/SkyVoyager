@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 gap-8 mb-12 md:grid-cols-2 lg:grid-cols-4">
             <div>
-              <h3 className="mb-4 text-2xl font-bold font-space">SkyVoyage</h3>
+              <h3 className="mb-4 text-2xl font-bold font-space">SkyVoyager</h3>
               <p className="mb-4 text-slate-300">
                 Elevating your journey with premium hot air balloon experiences
                 since 2010.
@@ -160,7 +160,7 @@ const Footer = () => {
             <div>
               <h4 className="mb-4 text-lg font-semibold">Newsletter</h4>
               <p className="mb-4 text-slate-300">
-                Subscribe to receive special offers and updates from SkyVoyage
+                Subscribe to receive special offers and updates from SkyVoyager
                 Balloons.
               </p>
               <div className="flex">
@@ -178,7 +178,7 @@ const Footer = () => {
 
           <div className="flex flex-col items-center justify-between pt-8 border-t border-slate-800 md:flex-row">
             <p className="mb-4 text-sm text-slate-400 md:mb-0">
-              © {new Date().getFullYear()} SkyVoyage Balloons. All rights
+              © {new Date().getFullYear()} SkyVoyager Balloons. All rights
               reserved.
             </p>
             <div className="flex space-x-4 text-sm text-slate-400">

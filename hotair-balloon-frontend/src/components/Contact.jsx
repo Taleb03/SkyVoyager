@@ -224,7 +224,7 @@ const Contact = () => {
                   </div>
                   <div className="flex items-start">
                     <Mail className="flex-shrink-0 w-5 h-5 mt-1 mr-3" />
-                    <span>info@skyvoyageballoons.com</span>
+                    <span>info@skyvoyagerballoons.com</span>
                   </div>
                   <div className="flex items-start">
                     <MapPin className="flex-shrink-0 w-5 h-5 mt-1 mr-3" />

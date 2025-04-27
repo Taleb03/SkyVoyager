@@ -242,7 +242,7 @@ const OurStory = () => {
               <div className="space-y-4 md:space-y-6">
                 <p className="text-base leading-relaxed text-slate-700 md:text-lg">
                   Founded in 2010 by a team of passionate aviation enthusiasts
-                  and adventure seekers, SkyVoyage Balloons was born from a
+                  and adventure seekers, SkyVoyager Balloons was born from a
                   simple desire: to share the magic of hot air ballooning with
                   the world.
                 </p>
