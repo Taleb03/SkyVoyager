@@ -26,7 +26,7 @@ SkyVoyage is a web presentation for premier hot air balloon tours. It allows use
 
 ## 🎥 Demo
 
-Check out the live demo: [SkyVoyager Live](https://sky-voyagers.vercel.app/)
+Check out the live demo: [SkyVoyager Live](https://skyvoyager.netlify.app/)
 
 ## Installation
 
